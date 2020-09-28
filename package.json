@@ -1,0 +1,22 @@
+{
+  "name": "gitlearn",
+  "version": "1.0.0",
+  "description": "Welcome to readme",
+  "main": "dog.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luongbaotin7777/FirstRepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luongbaotin7777/FirstRepo/issues"
+  },
+  "homepage": "https://github.com/luongbaotin7777/FirstRepo#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
